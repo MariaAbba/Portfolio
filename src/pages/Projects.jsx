@@ -25,10 +25,10 @@ const Projects = () => {
           {currentPageData?.map((project, index) => {
             return (
               <Project
-                key={index}
+                key={offset + index}
                 title={project.title}
                 img={project.img}
-                index={index}
+                index={offset + index}
               />
             )
           })}
