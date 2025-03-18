@@ -59,6 +59,13 @@ const projects = [
     imgBig: project06Big,
     gitHubLink: 'https://carhubnetlify.netlify.app/',
   },
+  {
+    title: 'Booking website',
+    skills: 'React, JavaScript, Next.js, TypeScript, Tailwind',
+    img: project06,
+    imgBig: project06Big,
+    gitHubLink: 'https://carhubnetlify.netlify.app/',
+  },
 ]
 
 export {projects}
