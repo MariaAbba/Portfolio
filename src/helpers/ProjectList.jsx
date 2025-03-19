@@ -22,6 +22,15 @@ import project07Big from './../img/projects/07-big.png'
 import project08 from './../img/projects/08.png'
 import project08Big from './../img/projects/08-big.png'
 
+import project09 from './../img/projects/09.png'
+import project09Big from './../img/projects/09-big.png'
+
+import project10 from './../img/projects/10.png'
+import project10Big from './../img/projects/10-big.png'
+
+import project11 from './../img/projects/11.png'
+import project11Big from './../img/projects/11-big.png'
+
 const projects = [
   {
     title: 'Travel website',
@@ -78,6 +87,27 @@ const projects = [
     img: project08,
     imgBig: project08Big,
     gitHubLink: 'https://travelhaven-react.netlify.app/',
+  },
+  {
+    title: 'E-commerce website',
+    skills: 'React, JavaScript, Tailwind',
+    img: project09,
+    imgBig: project09Big,
+    gitHubLink: 'https://franceandson.netlify.app/',
+  },
+  {
+    title: 'Educational website',
+    skills: 'React, JavaScript, Tailwind',
+    img: project10,
+    imgBig: project10Big,
+    gitHubLink: 'https://brainwave-react.netlify.app/',
+  },
+  {
+    title: 'Booking website',
+    skills: 'React, JavaScript, Tailwind',
+    img: project11,
+    imgBig: project11Big,
+    gitHubLink: 'https://luminous-cuchufli-cb85a6.netlify.app/',
   },
 ]
 
